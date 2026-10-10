@@ -1,0 +1,6 @@
+{
+  "name": "NotifyPrank",
+  "description": "Schedule realistic fake notification pranks with custom logos, senders, text, and photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
